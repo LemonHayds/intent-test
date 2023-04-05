@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "avenirHeavy";
+  src: url("../assets/fonts/Avenir-Heavy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "avenirMedium";
+  src: url("../assets/fonts/Avenir-Medium.ttf") format("truetype");
+}
