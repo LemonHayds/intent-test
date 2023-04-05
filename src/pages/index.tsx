@@ -5,7 +5,7 @@ import DiscoverContainer from "@/components/discover/DiscoverContainer";
 export default function Home() {
   return (
     <main>
-      <div className="bg-gradient-to-b from-wealthBgOrange/90 via-wealthBgYellow/50 pb-12">
+      <div className="bg-gradient-to-b from-wealthBgOrange/90 via-wealthBgYellow/40 pb-12">
         <header className="flex justify-center items-center py-6 relative">
           <Image
             src="/wealth-title.svg"
